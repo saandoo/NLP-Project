@@ -86,7 +86,7 @@ Maybe a Recurrent Neural Network (RNN) could achieve a higher f1_score, but also
 time-consuming than SVC. 
 
 -------------------------------------------------------------------------------------------------------------
-7. ESPECIFICATIONS
+7. SPECIFICATIONS
 -------------------------------------------------------------------------------------------------------------
 
 Processor	11th Gen Intel(R) Core(TM) i5-1155G7 @ 2.50GHz   2.50 GHz
